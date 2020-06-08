@@ -41,14 +41,13 @@ DAGM 2007 dataset is processed and we will release it to another platform; the r
 ## Citation
 If you find Shift-MIL pooling application is useful in your research, please consider to cite:
 
-@inproceedings{dong2019surface,
-  title={Surface Defect Segmentation with Multi-column Patch-Wise U-net},
-  author={Dong, Zihao and Shao, Xiuli and Zhang, Ruixun},
-  booktitle={2019 IEEE 5th International Conference on Computer and Communications (ICCC)},
-  pages={1436--1441},
-  year={2019},
-  organization={IEEE}
-}
+	@inproceedings{dong2019surface,
+	  title={Surface Defect Segmentation with Multi-column Patch-Wise U-net},
+	  author={Dong, Zihao and Shao, Xiuli and Zhang, Ruixun},
+	  booktitle={2019 IEEE 5th International Conference on Computer and Communications (ICCC)},
+	  pages={1436--1441},
+	  year={2019}
+	}
 
 ## Other Re-implementation
 ...
