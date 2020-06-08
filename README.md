@@ -21,5 +21,4 @@ Segmentation on DAGM 2007 (Weakly-surpvised Learning):
 [Training stage]
 
 python prepare_datasets_DAGM.py
-
 python run_training.py
