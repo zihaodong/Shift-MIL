@@ -14,11 +14,12 @@ Numpy
 
 ## Training and evaluation 
 
-Classification on MNIST: python shift_mil.py 
+**(1) Classification on MNIST:** python shift_mil.py 
 
-Segmentation on DAGM 2007 (Weakly-surpvised Learning): 
+**(2)Segmentation on DAGM 2007 (Weakly-surpvised Learning):** 
 
-[Training stage]
+**[Training stage]**
 
 python prepare_datasets_DAGM.py
 python run_training.py
+
