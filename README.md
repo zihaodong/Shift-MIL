@@ -18,8 +18,19 @@ Numpy
 
 **(2)Segmentation on DAGM 2007 (Weakly-surpvised Learning):** 
 
-**[Training stage]**
+**[Data Processing]**
 
 python prepare_datasets_DAGM.py
+
+**[Training stage]**
+
 python run_training.py
+
+**[Test stage]**
+
+python run_testing.py
+
+**[Evaluation stage]**
+
+python eval_curve.py
 
