@@ -4,3 +4,10 @@ Shift MIL pooling layer based on Noise-And for Classification and Segmentation. 
 ## Mathematics Equation and curve 
 ![](Math_curve.png) 
 
+## Requirements
+
+Tensorflow >= 1.9
+
+Keras >= 2.2
+
+Numpy
