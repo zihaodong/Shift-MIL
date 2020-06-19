@@ -16,7 +16,7 @@ Numpy
 
 **(1) Classification on MNIST:** python shift_mil.py 
 
-**(2)Segmentation on DAGM 2007 (Weakly-surpvised Learning):** 
+**(2) Segmentation on DAGM 2007 (Weakly-surpvised Learning):** 
 
 **[Data Processing]**
 
@@ -28,7 +28,7 @@ python run_training.py
 
 **[Test stage]**
 
-python run_testing.py
+python run_testing.py. You can control the contour of the segmentation result by changing the stride in test configure.
 
 **[Evaluation stage]**
 
